@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SwiftPriceAnimationView_Example' do
+  pod 'SwiftPriceAnimationView', :path => '../'
+
+  target 'SwiftPriceAnimationView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
