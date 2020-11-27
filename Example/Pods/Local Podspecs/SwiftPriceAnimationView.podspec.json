@@ -1,0 +1,22 @@
+{
+  "name": "SwiftPriceAnimationView",
+  "version": "0.1.0",
+  "summary": "A short description of SwiftPriceAnimationView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yoosa3004/SwiftPriceAnimationView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yoosa3004": "yoosa3004@deali.net"
+  },
+  "source": {
+    "git": "https://github.com/yoosa3004/SwiftPriceAnimationView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SwiftPriceAnimationView/Classes/**/*"
+}

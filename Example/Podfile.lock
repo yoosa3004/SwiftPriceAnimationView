@@ -1,0 +1,16 @@
+PODS:
+  - SwiftPriceAnimationView (0.1.0)
+
+DEPENDENCIES:
+  - SwiftPriceAnimationView (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftPriceAnimationView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftPriceAnimationView: 17913fd660b133125cae48d13a47252c6fefea4b
+
+PODFILE CHECKSUM: 640ffc371d4fdedb7fd7b2d175c02e70f864c2c5
+
+COCOAPODS: 1.9.3

@@ -1,0 +1,6 @@
+framework module SwiftPriceAnimationView {
+  umbrella header "SwiftPriceAnimationView-umbrella.h"
+
+  export *
+  module * { export * }
+}
